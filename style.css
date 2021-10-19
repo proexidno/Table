@@ -1,0 +1,12 @@
+@font-face {
+    font-family: OpenSanNormal;
+    src: url(fonts/OpenSans-Regular.ttf);
+    font-size: normal;
+    font-weight: normal;
+}
+
+td.Nav {
+    width: 100px;
+    height: 50px;
+    color: blue;
+}
